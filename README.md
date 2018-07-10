@@ -1,0 +1,2 @@
+# alkitab
+Aplikasi Alkitab
